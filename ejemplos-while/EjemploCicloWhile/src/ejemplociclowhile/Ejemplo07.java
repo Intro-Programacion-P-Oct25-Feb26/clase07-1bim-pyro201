@@ -50,3 +50,9 @@ public class Ejemplo07 {
 
     }
 }
+/*
+calcula el promedio de notas de una materia pidiendo ingresar las notas y 
+dividiendolas para el contador el cual se utiliza para llevar una cuenta de las 
+veces que se repitio el ciclo y para salir se le pide al usuario ingresar -1 si
+desea teminar el ciclo
+*/
