@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+pide que se ingrese un limite para el ciclo y en base al limite se van
+a imprimir los numeros impares a partir del 1 hasta llegar al limite
+*/
